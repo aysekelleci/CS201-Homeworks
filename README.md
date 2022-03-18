@@ -1,5 +1,5 @@
-# CS201-c++-codes
+# CS201 Homeworks
 
-### HW1 Dynamic memory allocation
+HW1 Dynamic memory allocation
 
-### HW3 Linked List 
+HW3 Linked List 
